@@ -1,3 +1,6 @@
-hey hello.....
-how are uuu..............
-i m fyn dess
+
+a=10
+b=200
+def new
+puts "hello"
+end
